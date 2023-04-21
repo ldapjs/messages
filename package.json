@@ -17,7 +17,7 @@
     "@ldapjs/dn": "1.0.0",
     "@ldapjs/filter": "2.0.0",
     "@ldapjs/protocol": "1.2.1",
-    "process-warning": "^2.1.0"
+    "process-warning": "^2.2.0"
   },
   "devDependencies": {
     "@fastify/pre-commit": "^2.0.2",
